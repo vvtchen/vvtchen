@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><b>Hi , I'm Wei Ting Chen </b></h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Wei Ting Chen </b></h1>
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f3b90c&center=true&width=435&lines=Self+Taught+Backend+Developer;Love+to+Learn+New+Technologies" alt="Typing SVG" /></a>
@@ -38,7 +38,6 @@
   </a>
 </td>
 <td width="50%" align="center">
-    <a href="https://github.com/0xabdulkhalid/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvtchen&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="0xabdulkhalid"/>
   </td>
 
