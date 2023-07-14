@@ -15,7 +15,7 @@
 - I’m currently open for a new job opportunity
 
 <br>
-<a href="www.linkedin.com/in/wei-ting-chen-2949a4192" target="_blank" >
+<a href="https://www.linkedin.com/in/wei-ting-chen-2949a4192/" target="_blank" >
 <img src="https://img.shields.io/badge/linkedin:  weiting_chen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; display:"/>
 </a>
 <a href="mailto:ari3schen@gmail.com">
