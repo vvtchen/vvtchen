@@ -18,9 +18,6 @@
 <a href="www.linkedin.com/in/wei-ting-chen-2949a4192" target="_blank" >
 <img src="https://img.shields.io/badge/linkedin:  weiting_chen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; display:"/>
 </a>
-<a href="https://leetcode.com/weitingchen/"  >
-<img src="https://img.shields.io/badge/leetcode:  weitingchen-%2300acee.svg?color=f3b90c&style=for-the-badge&logo=leetcode&logoColor=white" alt=leetcode style="margin-bottom: 5px;"/>
-</a>
 <a href="mailto:ari3schen@gmail.com">
 <img src="https://img.shields.io/badge/gmail:  weiting_chen-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
 </a>
